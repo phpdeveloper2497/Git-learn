@@ -1,3 +1,4 @@
 secret-file.html
 /password
 /config/.env
+.gitignore
